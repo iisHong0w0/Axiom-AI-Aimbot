@@ -8,7 +8,6 @@
 # [**>> Download Latest Release <<**](https://github.com/iishong0w0/Axiom-AI/releases/latest)
 # [Discord](https://discord.gg/h4dEh3b8Bt)  
 ![Control Panel](https://raw.githubusercontent.com/iisHong0w0/Axiom-AI/refs/heads/main/%E9%9D%A2%E6%9D%BF.png)
-![Control Panel](https://github.com/iisHong0w0/Axiom-AI_Aimbot/blob/main/%E5%B1%95%E7%A4%BA.png?raw=true)
 
 # **If this project helps you, please give us a ⭐ Star!**
 
