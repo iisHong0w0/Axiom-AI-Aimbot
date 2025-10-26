@@ -47,10 +47,10 @@ if %python_check_result% neq 0 (
     echo.
     echo  🔍 正在当前目录查找Python安装包...
     
-    :: 修正的文件搜索逻辑 - 更新为3.13.5版本
+    :: 修正的文件搜索逻辑 - 更新为3.11.0版本
     set "python_installer="
-    if exist "python-3.13.5*.exe" (
-        for %%f in (python-3.13.5*.exe) do (
+    if exist "python-3.11.0*.exe" (
+        for %%f in (python-3.11.0*.exe) do (
             set "python_installer=%%f"
             goto :FOUND_INSTALLER
         )
@@ -58,8 +58,8 @@ if %python_check_result% neq 0 (
     
     :FOUND_INSTALLER
     if "!python_installer!"=="" (
-        echo  ❌ 错误: 未找到Python 3.13.5安装包。
-        echo  📋 请确保 python-3.13.5-amd64.exe 存在于当前目录。
+        echo  ❌ 错误: 未找到Python 3.11.0安装包。
+        echo  📋 请确保 python-3.11.0-amd64.exe 存在于当前目录。
         echo  💡 或者手动安装Python并确保勾选 "Add to PATH"。
         goto :END_ERROR
     )

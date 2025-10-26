@@ -1,0 +1,18 @@
+怎麼啟動?
+	先安裝python-3.11.0-amd64.exe
+	然後打開"啟動Launcher.bat"
+
+為什麼安裝了python後還是啟動不了?
+	安裝python時記得勾選"Add python.exe to PATH"
+
+有任何其他問題請至 https://discord.gg/h4dEh3b8Bt
+ 
+
+How to start?
+	First, install python-3.11.0-amd64.exe.
+	Then open "Launcher.bat".
+ 
+Why can’t it start even after installing Python?
+	When installing Python, make sure to check the option “Add python.exe to PATH.”
+
+If you have any other questions, please visit: https://discord.gg/h4dEh3b8Bt
