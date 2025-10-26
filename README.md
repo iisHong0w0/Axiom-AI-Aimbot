@@ -119,36 +119,6 @@ Axiom is designed for gamers who are at a disadvantage compared to regular playe
 
 **⚠️ Important Notice**: This software is licensed under the PolyForm Noncommercial License 1.0.0. Commercial use is strictly prohibited.
 
-## ✨ Features
-
-### 🧠 AI-Powered Detection
-- **Multi-Model Support**: Compatible with ONNX and PyTorch models
-- **Real-time Processing**: Optimized for minimal latency and maximum responsiveness
-- **High Accuracy**: Advanced object detection with configurable confidence thresholds
-
-### 🎮 Advanced Control System
-- **PID Controller**: Precise movement control with customizable parameters
-- **Multi-Key Support**: Configurable hotkeys for different actions
-- **Auto-Fire System**: Intelligent firing mechanism with adjustable timing
-- **FOV Management**: Customizable field of view with mouse tracking
-
-### ⚡ Performance Optimization
-- **CPU Optimization**: Advanced process and thread priority management
-- **Memory Management**: Efficient memory allocation and garbage collection
-- **Multi-threading**: Parallel processing for improved performance
-- **GPU Acceleration**: directml support for onnx models
-
-### 🎨 User Interface
-- **Modern GUI**: PyQt6-based interface with real-time status display
-- **Overlay System**: Transparent overlay for visual feedback
-- **Settings Panel**: Comprehensive configuration options
-- **Status Monitoring**: Real-time performance and detection statistics
-
-### 🔧 Advanced Configuration
-- **Head/Body Targeting**: Precise targeting system with ratio-based calculations
-- **Sound Alerts**: Audio feedback system for detection events
-- **Single Target Mode**: Focused detection on nearest targets
-
 ## 💻 System Requirements
 
 ### Minimum Requirements
@@ -184,18 +154,6 @@ Axiom is designed for gamers who are at a disadvantage compared to regular playe
    - Press the configured toggle key (default: Insert)
    - The system will begin real-time detection
    - Visual feedback will appear on screen
-
-### Key Controls
-- **Insert Key**: Toggle detection on/off
-- **Mouse Buttons**: Configure aim keys in settings
-- **X2 Button**: Auto-fire trigger (configurable)
-- **Middle Mouse**: Alternative auto-fire trigger
-
-### Advanced Features
-- **FOV Tracking**: Enable mouse-following field of view
-- **Sound Alerts**: Audio notifications for detection events
-- **Performance Mode**: Optimize for maximum speed
-- **Single Target**: Focus on nearest detected object
 
 ## 🤝 Contributing
 
