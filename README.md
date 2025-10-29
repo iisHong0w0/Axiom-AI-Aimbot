@@ -9,11 +9,8 @@
 <h1>Axiom AI</h1>
 <p>Adaptive aim assistance powered by computer vision to support gamers who need it most.</p>
 
-<p>
-  <a href="https://github.com/iishong0w0/Axiom-AI/releases/latest"><strong>Download Latest Release</strong></a>
-  ·
-  <a href="https://discord.gg/h4dEh3b8Bt">Discord Community</a>
-</p>
+  ## <a href="https://github.com/iishong0w0/Axiom-AI/releases/latest"><strong>Download Latest Release</strong></a>
+  ## <a href="https://discord.gg/h4dEh3b8Bt">Discord</a>
 
 <img src="https://raw.githubusercontent.com/iisHong0w0/Axiom-AI/refs/heads/main/%E9%9D%A2%E6%9D%BF.png" alt="Control panel screenshot" width="720" />
 
